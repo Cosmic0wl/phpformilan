@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url("car.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.pink {
+	border: 2px solid #FECBC8;
+}
+
+.green {
+	color: #98d5cc;
+}
